@@ -1,12 +1,12 @@
-# 📊 Churn Analysis
+Churn Analysis
 
-## 📌 Overview
+
 
 This project focuses on analyzing customer churn to understand why customers discontinue services and how churn rates can be reduced. The analysis includes data preprocessing, exploratory analytics, and business insights to support strategic decision-making.
 
 ---
 
-## 🎯 Objectives
+Objectives
 
 - Measure churn distribution across various customer segments  
 - Identify key drivers influencing churn  
@@ -15,7 +15,7 @@ This project focuses on analyzing customer churn to understand why customers dis
 
 ---
 
-## 🗂 Dataset
+Dataset
 
 | Category | Features |
 |----------|----------|
@@ -26,11 +26,11 @@ This project focuses on analyzing customer churn to understand why customers dis
 | **Target Variable** | Churn (Yes/No) |
 
 > **Source:** Telco Customer Churn Dataset / Proprietary Source  
-> **Records:** `XXXX rows`
+
 
 ---
 
-## 🛠 Tech Stack
+Tech Stack
 
 | Tool / Library | Purpose |
 |----------------|---------|
@@ -38,19 +38,18 @@ This project focuses on analyzing customer churn to understand why customers dis
 | Matplotlib / Seaborn | Visualization |
 | Power BI / Tableau | Dashboarding |
 | Scikit-Learn *(optional)* | Predictive Modeling |
-| Git / GitHub | Version Control |
+
 
 ---
 
-## 📈 Key Insights
+Key Insights
 
 ✔ Customers on **month-to-month contracts** are more likely to churn  
 ✔ **Higher MonthlyCharges** correlate with higher churn probability  
 ✔ Users with **TechSupport / OnlineSecurity services** show lower churn rates  
 
 ---
-
-## ✅ Recommendations
+ Recommendations
 
 | Insight | Actionable Strategy |
 |---------|---------------------|
@@ -60,7 +59,7 @@ This project focuses on analyzing customer churn to understand why customers dis
 
 ---
 
-## 🚀 Future Enhancements
+Future Enhancements
 
 - Build and deploy **Churn Prediction Model**  
 - Integrate **automated churn alerts**  
