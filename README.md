@@ -67,5 +67,9 @@ Future Enhancements
 
 ---
 
-## 📎 Project Structure (Example)
+│── 📂 data
+│── 📂 notebooks
+│── 📂 visuals
+│── 📂 reports
+│── README.md
 
